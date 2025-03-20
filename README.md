@@ -1,5 +1,5 @@
 # Lane Change Detection Dataset
-
+## We will upload the relevant datasets and evaluate the validation methods as soon as the paper is accepted.
 ## Overview
 
 This repository contains a dataset designed for lane change detection in autonomous driving research. The dataset integrates multi-sensor data, including inertial measurement unit (IMU) readings, Visual-based lateral distances, and GPS coordinates, to facilitate accurate identification of vehicle lane-changing behaviors. It addresses the scarcity of publicly available datasets tailored for this purpose, offering a low-cost, efficient, and robust resource for researchers and practitioners in the field of intelligent transportation systems.
